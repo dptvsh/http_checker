@@ -1,0 +1,8 @@
+https://ya.ru
+https://google.com
+invalid-host1
+invalid-host2
+https://httpbun.com/status/200
+https://httpbun.com/status/404
+https://httpbun.com/status/500
+https://httpbun.com/delay/1
